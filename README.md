@@ -1,1 +1,7 @@
-# Sirius-artificial-intelligence
+
+# Содержание репозитория
+* **cianpars.py** - python скрипт для парсинга Циан, сейчас настроен на небольшую выборку данных из Кирова
+* **boosted_forest.py** - Notebook файл с моделью нейросети в рамках проекта
+* **requirements.txt** - txt файл с библиотеками необходимыми для запуска
+* **test_data/small_flat_data.xlsx** - Excel таблица с небольшой выборкой трёхкомнатных квартир Кирова с Циан
+* **test_data/gold.xlsx** - Excel таблица с ценой золота в рублях
